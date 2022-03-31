@@ -13,3 +13,38 @@ Este proyecto pretende ser un juego de administración de recursos 3D de vista l
 
 
 ![BringHerBack](https://raw.githubusercontent.com/LucasGariador/PrototypeProjects/master/Gif/video-to-gif-converter%20(9).gif)
+
+
+## Proyectos PUBLICOS:
+
+Se puede encontrar todos los códigos fuente de los siguientes proyectos y prototipos en los siguientes repositorios:
+
+Crash Minigame Prototype:
+
+![enter image description here](https://raw.githubusercontent.com/LucasGariador/PrototypeProjects/master/Images/Crash.png)
+
+[Crash en repositorio](https://github.com/LucasGariador/PrototypeCrash)
+
+ Game Jam Consigna Residuos:
+ 
+![enter image description here](https://raw.githubusercontent.com/LucasGariador/PrototypeProjects/master/Images/Residuos.png)
+
+[Residuos en repositorio](https://github.com/LucasGariador/GameJam)
+
+
+Stealth/Radial Inventory Prototype:
+
+![Stealth](https://raw.githubusercontent.com/LucasGariador/PrototypeProjects/master/Images/Stealth.png)
+
+[Stealth en repositorio](https://github.com/LucasGariador/StealthPrototypeFirst)
+
+Game Jam Consigna Sustentabilidad(The Last Defence): 
+
+ ![Sust](https://raw.githubusercontent.com/LucasGariador/PrototypeProjects/master/Images/Sust.png)
+[Itch.io link para jugarlo](https://lucasgariador.itch.io/)
+
+2DInventorySystem/Shop:
+
+![enter image description here](https://raw.githubusercontent.com/LucasGariador/PrototypeProjects/master/Images/TaskLSW.png)
+
+[2D Inventory en repositorio](https://github.com/LucasGariador/TaskLSW)

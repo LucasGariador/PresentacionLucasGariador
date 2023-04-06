@@ -1,5 +1,5 @@
 ﻿
-Mi nombre es Lucas Gariador, desde hace 3 años aproximadamente que estoy aprendiendo a programar videojuegos. En el ultimo año trabaje de freelance en la plataforma fiverr haciendo prototipados de videojuegos en Unity3D, ahora me encuentro en búsqueda activa de trabajo y mientras continuo aprendiendo. Dedico gran parte de mi tiempo a mis proyectos personales y aprobar nuevas herramientas. También participo ocasionalmente de Game Jams y soy activo en los reddits de Unity3D y Unity2D.
+Mi nombre es Lucas Gariador, desde hace 3 años aproximadamente que estoy aprendiendo a programar videojuegos. En el ultimo año trabaje de freelance en la plataforma fiverr haciendo prototipados de videojuegos en Unity3D, ahora me encuentro tranajando como Unity Developer para una empresa argentina y mientras continuo aprendiendo. Dedico gran parte de mi tiempo libre a mis proyectos personales y a probar nuevas herramientas. También participo ocasionalmente de Game Jams y soy activo en los reddits de Unity3D y Unity2D.
 
 
 

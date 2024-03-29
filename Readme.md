@@ -1,53 +1,61 @@
 ﻿
-Mi nombre es Lucas Gariador, desde hace 3 años aproximadamente que estoy aprendiendo a programar videojuegos. En el ultimo año trabaje de freelance en la plataforma fiverr haciendo prototipados de videojuegos en Unity3D, ahora me encuentro tranajando como Unity Developer para una empresa argentina y mientras continuo aprendiendo. Dedico gran parte de mi tiempo libre a mis proyectos personales y a probar nuevas herramientas. También participo ocasionalmente de Game Jams y soy activo en los reddits de Unity3D y Unity2D.
+Passionate developer with 2 years of experience in the field of video game development with C#, now focused on redirecting my career towards software development in broader environments, such as C#, Java, C++, or SAP. Throughout my journey, I have cultivated a deep admiration for programming, creating innovative solutions, and teamwork. My transition to software development in general is driven by an intrinsic desire to expand my skills and contribute to diverse projects. I am committed to continuous learning and am excited about the opportunity to apply my previous knowledge in a new context, bringing creativity and technical skills to various challenges in the world of software development.
 
 
 
+# Private Prototypes
 
-# Prototipos privados
-
-Estos son los 2 proyectos personales en los que me encuentro trabajando actualmente en repositorios privados.
+This is the description of the 2 personal projects I am currently working on, which are hosted in private repositories..
 
 ## Lo-fi Beats Basketball:
 
-Es un pequeño proyecto orientado a Android y que va a contar con distintos escenarios junto con variadas listas de reproducción de música lo-fi. Toda la lógica de las mecánicas de movimiento y de lanzar al aro, ya están implementadas.
+It's a small Mobile-oriented project that will feature different scenarios along with various lo-fi music playlists. All the logic for movement mechanics and shooting hoops has already been implemented..
 ![RelaxGame](https://raw.githubusercontent.com/LucasGariador/PrototypeProjects/master/Gif/video-to-gif-converter%20%282%29.gif)
 
 ## Bring Her Back(TBD)
 
-Este proyecto pretende ser un juego de administración de recursos 3D de vista lateral con énfasis en la ampliación y defensa del castillo en el que tiene lugar.
+This project aims to be a 3D side-view resource management game with emphasis on expanding and defending the castle where it takes place.
 
 
 ![BringHerBack](https://raw.githubusercontent.com/LucasGariador/PrototypeProjects/master/Gif/video-to-gif-converter%20(9).gif)
 
 
-# Proyectos PUBLICOS:
+# Public Proyects:
 
-Se puede encontrar todos los códigos fuente de los siguientes proyectos y prototipos en los siguientes repositorios:
+Source code for the following projects and prototypes can be found in the following repositories:
+
+**Hex Builder**
+![enter image description here](Images/ImageProject.PNG)
+
+[Itch.io Link](https://lucasgariador.itch.io/hex-builder)
+
 
 **Crash Minigame Prototype:**
 
 ![enter image description here](https://raw.githubusercontent.com/LucasGariador/PrototypeProjects/master/Images/Crash.png)
 
-[Crash en repositorio](https://github.com/LucasGariador/PrototypeCrash)
+[Code](https://github.com/LucasGariador/PrototypeCrash)
 
- **Game Jam Consigna Residuos:**
+
+ **The good driver:**
  
 ![enter image description here](https://raw.githubusercontent.com/LucasGariador/PrototypeProjects/master/Images/Residuos.png)
 
-[Residuos en repositorio](https://github.com/LucasGariador/GameJam)
+[Code](https://github.com/LucasGariador/GameJam)
 
 
 **Stealth/Radial Inventory Prototype:**
 
 ![Stealth](https://raw.githubusercontent.com/LucasGariador/PrototypeProjects/master/Images/Stealth.png)
 
-[Stealth en repositorio](https://github.com/LucasGariador/StealthPrototypeFirst)
+[Code](https://github.com/LucasGariador/StealthPrototypeFirst)
 
-**Game Jam Consigna Sustentabilidad(The Last Defence):** 
+
+**The Last Defence:** 
 
  ![Sust](https://raw.githubusercontent.com/LucasGariador/PrototypeProjects/master/Images/Sust.png)
-[Itch.io link para jugarlo](https://lucasgariador.itch.io/)
+[Itch.io Link](https://lucasgariador.itch.io/)
+
 
 **2DInventorySystem/Shop:**
 

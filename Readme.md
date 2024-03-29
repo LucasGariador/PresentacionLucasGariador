@@ -26,7 +26,7 @@ Source code for the following projects and prototypes can be found in the follow
 
 **Hex Builder**
 ![enter image description here](Images/ImageProject.PNG)
-
+[Code](https://github.com/LucasGariador/HexBuilder) 
 [Itch.io Link](https://lucasgariador.itch.io/hex-builder)
 
 

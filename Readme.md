@@ -1,7 +1,7 @@
 ﻿
 Passionate developer with 2 years of experience in the field of video game development with C#, now focused on redirecting my career towards software development in broader environments, such as C#, Java, C++, or SAP. Throughout my journey, I have cultivated a deep admiration for programming, creating innovative solutions, and teamwork. My transition to software development in general is driven by an intrinsic desire to expand my skills and contribute to diverse projects. I am committed to continuous learning and am excited about the opportunity to apply my previous knowledge in a new context, bringing creativity and technical skills to various challenges in the world of software development.
 
-#[Resume](https://github.com/LucasGariador/Presentation/blob/master/Resume/LUCAS%20NAHUEL%20GARIADOR%20G_DEV.pdf)
+# [Resume](https://github.com/LucasGariador/Presentation/blob/master/Resume/LUCAS%20NAHUEL%20GARIADOR%20G_DEV.pdf)
 
 # Private Prototypes
 
